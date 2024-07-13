@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.env
+
+# Data
+data/TMDB_movie_dataset_v11.csv
+recomender-main/TMDB_movie_dataset_v11.csv
+
+# Others
+.DS_Store
+.idea/
+.vscode/
