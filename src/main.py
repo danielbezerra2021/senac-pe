@@ -17,6 +17,7 @@ Este é um projeto da disciplina de **Sistemas de Recomendação**
 Daniel Bezerra de Souza  
 Janilson Alves da Silva  
 Diogo Severino Antonio dos Santos
+Diogo Azevedo Pereira Dantas
 """)
 
 @st.cache_data
